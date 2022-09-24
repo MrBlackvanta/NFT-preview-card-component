@@ -5,14 +5,15 @@ $very-dark-blue: hsl(215, 51%, 16%);
 $dark-blue: hsl(215, 32%, 27%);
 
 .card {
-  width: 35.5rem;
-  padding: 2.5rem;
+  width: 30rem;
+  padding: 2rem;
   background-color: $very-dark-blue;
   border-radius: 1.2rem;
   color: $soft-blue;
-  font-size: 1.8rem;
+  font-size: 1.4rem;
   font-weight: 400;
   box-shadow: 0 35px 10px 20px rgba(0, 0, 0, 0.1);
+  margin-bottom: 1rem;
 
   &-img {
     width: 100%;
